@@ -1,6 +1,6 @@
 # SOA - Microservices and Web Engineering
 
-## CheckPoint 1 | 1º semestre | 2025 - 3 SIR
+## CheckPoint 2 | 1º semestre | 2025 - 3 SIR
 
 # CRUD para Gerenciamento de Pacientes
 
